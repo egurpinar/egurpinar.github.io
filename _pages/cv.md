@@ -11,21 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical and Electronics Engineer, The University of Nottingham, 2017
+* M.Sc. in Electrical Energy Conversion Systems, The University of Manchester, 2010
+* B.Sc. in Electrical Engineering, Istanbul Technical University, 2009
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Senior Staff at Sikorsky Innovations, March 2022 - Current
+  * Sikorsky Aircraft
+  * Leading power electronics development for electrified aircraft propulsion systems
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Staff
+  * Electric Drives Research Group, Oak Ridge National Laboratory, June 2018 - March 2022
 
 * Summer 2015: Research Assistant
   * Github University
