@@ -1,8 +1,10 @@
 ---
 title: "ITU Electric Solar Car Team"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/ariba4.png'>"
+excerpt: "<br/><img src='/images/ariba4.png'>"
 collection: portfolio
 ---
+Electrical Power System Development for ITU Solar Car Team
+====
 
 During my undergraduate studies at Istanbul Technical University (ITU), I was a member of [ITU Solar Car Team] (https://www.itusct.com), which was formed by the undergraduate engineering students to compete at local races and World Solar Challenge. I was involved in electrical system design, installation and testing for ARIBA III and IV. You can find the details of this project on the ITU Solar Car Team website and a snippet of the details below: 
 
