@@ -10,14 +10,10 @@ You can find the details of the project in my [paper](/files/Tradeoff_Study_of_H
 
 ![Volume_Analysis](/images/Total_Volume_vs_Ploss-eps-converted-to.png)
 ---
-16kHz
-===
+LC Filter Designs for 16kHz, 64kHz and 128kHz switching frequencies: 
+
 ![LC_16kHz](/images/LC_16kHz.png)
-64kHz
-===
 ![LC_64kHz](/images/LC_64kHz.png)
-128kHz
-===
 ![LC_128kHz](/images/LC_128kHz.png)
 
 
