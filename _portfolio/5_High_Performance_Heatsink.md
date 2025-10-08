@@ -10,5 +10,6 @@ At Oak Ridge Laboratory, I have worked on optimization of liquid cooled heat sin
 
 ![hs_optimization](/images/hs_optimization_flow_chart.png)
 ![heat_sink_pf](/images/heat_sink_pareto_front.pdf)
+![hs_setup](/images/hs_setup.png)
 
 
