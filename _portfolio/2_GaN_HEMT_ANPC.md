@@ -9,7 +9,7 @@ As part of my PhD work at University of Nottingham, this project focused on the 
 You can find the details of the project in my [paper](/files/Tradeoff_Study_of_Heat_Sink_and_Output_Filter_Volume_in_a_GaN_HEMT_Based_Single-Phase_Inverter.pdf) published in IEEE Transactions on Power Electronics in 2018.
 
 ![Volume_Analysis](/images/Total_Volume_vs_Ploss-eps-converted-to.png)
-![LC_16kHz](LC_16kHz(/images/LC_16kHz.png)
+![LC_16kHz](/images/LC_16kHz.png)
 ![LC_64kHz](/images/LC_64kHz.png)
 ![LC_128kHz](/images/LC_128kHz.png)
 
