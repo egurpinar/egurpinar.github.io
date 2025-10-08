@@ -1,6 +1,6 @@
 ---
 title: "ITU Electric Solar Car Team"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/ariba4.png/'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/ariba4.png'>"
 collection: portfolio
 ---
 
