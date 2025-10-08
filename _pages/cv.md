@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+<<<<<<< Updated upstream
 * Ph.D in Electrical and Electronics Engineer, The University of Nottingham, 2017
 * M.Sc. in Electrical Energy Conversion Systems, The University of Manchester, 2010
 * B.Sc. in Electrical Engineering, Istanbul Technical University, 2009
@@ -23,11 +24,29 @@ Work experience
 
 * Research Staff
   * Electric Drives Research Group, Oak Ridge National Laboratory, June 2018 - March 2022
+=======
+* Ph.D in Electrical and Electronics Engineering, The University of Nottingham, UK, 2017
+* M.Sc. in Electrical Energy Conversion Systems, The University of Manchester, UK, 2010
+* B.Sc. in Electrical Engineering, Istanbul Technical University, Turkey, 2009
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Work experience
+======
+* March 2022 - Current: Associate Technical Fellow, Senior Staff
+  * Sikorsky Innovations, Sikorsky Aircraft
+  * Duties includes: Developing power electronics for electrified vertical take-off and landing systems
+
+* May 2018 - March 2022: Research Staff
+  * Electric Drives Research Group, Oak Ridge National Laboratory
+  * Duties included: Led research projects based on multi-physics integration and development of wide-bandgap power modules and converters. 
+
+* May 2017 - May 2018: Postdoctoral Research Associate
+  * Power Electronics and Electric Machinery Research Group, Oak Ridge National Laboratory
+  * Duties included: Characterization and analysis of wide-bandgap devices for autonmotive applications. 
+  
+* June 2013 - March 2017: Graduate Student
+  * Power Electronics, Machinery and Control (PEMC) Research Group
+>>>>>>> Stashed changes
+
   
 Skills
 ======
