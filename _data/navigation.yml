@@ -7,15 +7,19 @@
 main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=_Y0NMJEAAAAJ&hl=en&authuser=1
-
-  %- title: "Talks"
-  %  url: /talks/    
-
+    
+    
   - title: "Portfolio"
     url: /portfolio/
-        
-  %- title: "Blog Posts"
-  % url: /year-archive/
     
+        
   - title: "CV"
     url: /files/Emre_Gurpinar_CV.pdf
+
+  #- title: "Talks"
+  #  url: /talks/
+
+        
+  #- title: "Blog Posts"
+  # url: /year-archive/
+
