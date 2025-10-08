@@ -9,7 +9,8 @@ At Oak Ridge Laboratory, I have worked on optimization of liquid cooled heat sin
 "Optimal heat dissipation in power modules can significantly increase their power density. Removing the generated heat is critical for capturing the benefits of advanced semiconductor materials and improving the reliability of the device operation. This study proposes a design optimization method for liquid-cooled heat sinks that use a Fourier analysis--based tool and an evolutionary optimization algorithm to optimize the heat sink geometry for specified objectives. The optimized heat sink geometry was compared with state-of-the-art solutions in the literature based on finite element analysis of different designs. The proposed methodology can develop complex geometries that outperform conventional heat sink geometries. Optimized heat sink design from the proposed method was fabricated and tested in an experimental setup under representative operating conditions. The experimental setup was also modeled in the finite element model that was used for the proposed heat sink optimization method. The experimental results show that developed finite element models can predict the thermal and flow performance of the complex design with high fidelity, and the results validate the proposed design approach."
 
 ![hs_optimization](/images/hs_optimization_flow_chart.png)
-![heat_sink_pf](/images/heat_sink_pareto_front.pdf)
+![heat_sink_pf](/images/heat_sink_pareto_front.png)
+![hs_setup_render](/images/hs_setup_render.png)
 ![hs_setup](/images/hs_setup.png)
 
 
